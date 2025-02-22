@@ -6,10 +6,10 @@
  - **Python environment 版本**: 3.11.9
 
 ## **執行步驟**
-套件依賴  pyaudio 
-參考網址 ：https://pypi.org/project/PyAudio/
-自己的env參數需填寫
-Mac 需先執行
+套件依賴  pyaudio  
+參考網址 ：https://pypi.org/project/PyAudio/  
+自己的env參數需填寫  
+Mac 需先執行  
 ```
 brew  install  portaudio
 ```
