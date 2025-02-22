@@ -16,4 +16,8 @@ brew  install  portaudio
 ``` 
 pip install -r requirements.txt
 ```
+安裝完後，開始運行，觀看print 的指令運作  
+```
+python main.py
+```
 
